@@ -40,4 +40,4 @@ analysis.
 Python (pandas, scikit-learn), SQL (SQLite), Tableau Public
 
 ## Live dashboard
-https://public.tableau.com/app/profile/nitin.garg5786/viz/SupplyChainDeliveryAnalytics/SupplyChainDeliveryPerformanceDashboard_
+https://public.tableau.com/app/profile/nitin.garg5786/viz/SupplyChainDeliveryAnalytics/SupplyChainDeliveryPerformanceDashboard_?publish=yes
